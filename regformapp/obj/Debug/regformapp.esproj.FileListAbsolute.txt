@@ -1,2 +1,4 @@
 C:\Users\Yuvin\Desktop\Proj\FrontEnd\RegistrationForm\BackEnd\Solution1\RegFormApp\obj\Debug\regformapp.esproj.SuggestedBindingRedirects.cache
 C:\Users\Yuvin\Desktop\Proj\FrontEnd\RegistrationForm\BackEnd\Solution1\RegFormApp\obj\Debug\regformapp.esproj.CoreCompileInputs.cache
+C:\Users\Yuvin\Desktop\Project\RegistrationForm\RegFormApp\obj\Debug\regformapp.esproj.SuggestedBindingRedirects.cache
+C:\Users\Yuvin\Desktop\Project\RegistrationForm\RegFormApp\obj\Debug\regformapp.esproj.CoreCompileInputs.cache
