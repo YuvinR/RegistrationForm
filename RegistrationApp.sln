@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ApplicationCore", "ApplicationCore", "{1BD67875-3826-4198-AB13-4D61E0966A3F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DistributedServices", "DistributedServices", "{02C388C1-4EEB-41F3-AB3F-53B247AEB030}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{C3FA060A-9416-448F-B617-E9290DE87A03}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UI", "UI", "{7FA0FFDB-CE2F-4336-A6D3-AFDFF8223916}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "regformapp", "RegFormApp\regformapp.esproj", "{FE645E84-8760-4C07-A1DF-942F39590EFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE645E84-8760-4C07-A1DF-942F39590EFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE645E84-8760-4C07-A1DF-942F39590EFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE645E84-8760-4C07-A1DF-942F39590EFA}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{FE645E84-8760-4C07-A1DF-942F39590EFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE645E84-8760-4C07-A1DF-942F39590EFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE645E84-8760-4C07-A1DF-942F39590EFA}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FE645E84-8760-4C07-A1DF-942F39590EFA} = {7FA0FFDB-CE2F-4336-A6D3-AFDFF8223916}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E3EB531-2DB8-40A6-9283-213A21918965}
+	EndGlobalSection
+EndGlobal
