@@ -7,5 +7,6 @@ namespace RegistrationApp.Api.Controllers
     [ApiController]
     public class RegistrationController : ControllerBase
     {
+
     }
 }

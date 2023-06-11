@@ -13,7 +13,7 @@ namespace RegistrationApp.DataAccess
 
         protected DbSet<T> _entities;
         #endregion
-        #region Ctor
+
 
         public EfRepository(ApplicationDBContext context)
         {

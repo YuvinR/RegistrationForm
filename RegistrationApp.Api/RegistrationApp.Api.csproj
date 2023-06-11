@@ -15,7 +15,9 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\RegistrationApp.DataAccess\RegistrationApp.DataAccess.csproj" />
     <ProjectReference Include="..\RegistrationApp.EntityFrameworkContext\RegistrationApp.EntityFrameworkContext.csproj" />
+    <ProjectReference Include="..\RegistrationApp.Services\RegistrationApp.Services.csproj" />
   </ItemGroup>
 
 </Project>
